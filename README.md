@@ -10,6 +10,7 @@ Awesome open source software and resources for the wind industry.
 ### Resource Assessment
 - [WRA data model](https://github.com/IEA-Task-43/digital_wra_data_standard) JSON schema and associated tools for wind resource assessment.
 - [OpenOA](https://github.com/NREL/OpenOA) This library provides a framework for working with large timeseries data from wind plants, such as SCADA.
+- [brightwind](https://github.com/brightwind-dev/brightwind) This is a python library containing functions specifically for wind resource assessments.
 
 ### Wakes and simulation
 - [FLORIS](https://github.com/nrel/floris) a controls-oriented engineering wake model.
