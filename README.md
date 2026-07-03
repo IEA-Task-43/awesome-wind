@@ -19,6 +19,7 @@ Awesome open source software and resources for the wind industry.
 ### Data Services and Cloud 
 - [octue-sdk]() for creating, tagging and using datasets and data services in the cloud.
 - [django-twined]() For orchestrating scientific data services from a web server.
+- [Mautic](https://www.mautic.org) - Open-source, self-hostable marketing automation platform for campaigns, segmentation, and customer journeys.
 
 ## See Also
 
